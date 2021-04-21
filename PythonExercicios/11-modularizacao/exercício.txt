@@ -1,0 +1,77 @@
+1- Ir ao mercado e comprar pão se estiver barato
+- Colocar na carteira cédulas de dinheiro e cartão com saldo
+- Sair de casa
+- Caminhar até o mercado mais próximo
+- Entrar no mercado
+- Caminhar procurando pela seção de pãess
+- Ao chegar na seção de pães, verificar a placa com o preço do pão
+- Se o pão estiver barato:
+	- Caminhar até o balcão do pão
+	- Dirigir-se à pessoa que está atendendo
+	- Pedir a quantidade de pães desejada
+	- Aguardar o atendente entregar a embalagem com os pães
+	- Pegar a embalagem com os pães
+	- Caminhar até o caixa com a embalagem dos pães
+	- Enquanto houver fila, aguardar atrás da última pessoa que está a sua frente
+	- Na sua vez, depositar a embalagem de pães sobre o balcão do caixa
+	- Aguardar o funcionário ou a funcionária processar a comprar e te informar o valor
+	- Escolher a forma de pagamento (dinheiro ou cartão)
+	- Informar a forma de pagamento ao caixa
+	- Tirar a carteira do bolso e abrir
+	- Se for pagamento com dinheiro: 
+		- Contar cédulas disponíveis até atingir pelo menos o valor exato da compra
+		- Retirar as cédulas da carteira e entregar para a pessoa do caixa
+		- Se o valor entregue foi maior que o valor da compra, aguardar a pessoa do caixa 			devolver o troco, pegar o troco, colocar na carteira e guardar a carteira
+	- Se for pagamento com cartão:
+		- Retirar o cartão com o qual deseja pagar a compra
+		- Inserir o cartão na máquina de cartão fornecida pelo funcionário do caixa
+		- Digitar a senha quando solicitado pela máquina e confirmar
+		- Aguardar confirmação da compra pela máquina e guardar o cartão na carteira e a 			carteira no bolso
+	- Pegar a embalagem com os pães entregue pelo funcionário
+	- Segurar a embalagem
+	- Caminhar até em casa feliz com a embalagem dos pães
+	
+
+2- Trocar pneu do carro se o mesmo estiver furado
+
+- Estacionar o carro em um local sem tráfego
+- Ligar o pisca-alerta
+- Puxar o freio de mão
+- Colocar a marcha em "ponto morto"
+- Abrir a sua porta do carro
+- Descer do carro
+- Verificar os 4 pneus
+- Se algum pneu estiver furado, faça:
+	- Colocar uma pedra ou peso na frente das quatro rodas
+	- Ir até o porta malas
+	- Abrir o porta malas
+	- Pegar o estepe, o macaco e a chave de rodas
+	- Colocar o estepe e o macaco ao lado do pneu furado
+	- Pegar o macaco e colocá-lo sob a lataria do carro ao lado do pneu furado
+	- Encaixar o macaco corretamente e levantá-lo até apoiar o carro
+	- Para todos os parafusos do pneu furado, um de cada vez, encaixar a chave de rodas no 		parafuso e girar no sentido anti-horário até eles ficarem soltos
+	- Retirar a calota
+	- Levantar mais o veículo com o macaco
+	- Continuar a girar os parafusos até eles se soltarem
+	- Remover os parafusos
+	- Remover o pneu furado
+	- Colocar o pneu furado sob o carro
+	- Pegar o estepe
+	- Encaixar o estepe
+	- Colocar os parafusos nos devidos locais
+	- Pegar a chave de roda
+	- Apertar os parafusos com a chave de roda
+	- Baixar o macaco
+	- Retirar o macaco do lugar
+	- Pegar a calota
+	- Colocar a calota de volta no lugar
+	- Pegar o pneu furado
+	- Colocar o pneu furado no porta-malas
+	- Pegar a chave de roda e o macaco
+	- Colocar a chave de roda e o macaco no porta-malas
+	- Volte para a porta do motorista
+	- Abra a porta
+	- Entre no carro
+	- Ligue o carro
+	- Vá embora
+
